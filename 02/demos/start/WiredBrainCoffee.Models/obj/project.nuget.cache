@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPFZFgPe0qv/dPd7xWeHqmrJnZI33AvX8Q7QojPmS4Ij9bhgyEfVDXxJiuVrGiNEOuGOEVVbgNg3ChO8ojBrOg==",
+  "success": true,
+  "projectFilePath": "C:\\Pluralsight\\Whats New Dotnet 5\\src50\\WiredBrainCoffee.Client\\WiredBrainCoffee.Models\\WiredBrainCoffee.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\alexr\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
